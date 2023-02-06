@@ -1,9 +1,13 @@
 
-# Movie Search App
+
+## Movie Search App
 
 It is a movie search application developed using ReactJs and Axios api and data fetched from third party api called OMBD movie rating website.
+### ScreenShots
+![enter image description here](https://i.imgur.com/Kz4G0DW.jpg)
 
-## Installation
+![enter image description here](https://i.imgur.com/6jj6mL9.png)
+### Installation
 
 Setup this project in your local machine - 
 
@@ -13,12 +17,12 @@ Setup this project in your local machine -
   $ npm install
   $ npm run 
 ``` 
-## Library used
+### Library used
 - styled-components
 - axios api 
 - react-scripts
 
-## API Info
+### API Info
  - OMBD API 
  - Method: GET
  - Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}apikey={API_KEY} 
